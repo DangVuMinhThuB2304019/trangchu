@@ -1,0 +1,52 @@
+div.center {
+  display: flex;
+  justify-content: center;
+  padding: 1em;
+}
+
+.navbar {
+  top: 0;
+  left: 0;
+  right: 0;
+  background: #2ba24c;
+  padding: 2rem 9%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+}
+
+.navbar a {
+  font-size: 2rem;
+  padding: 0 1.5rem;
+  color: #ffffff;
+}
+
+div.box {
+  font-size: 1.2rem;
+  width: 50vw;
+  height: 75vh;
+  background: #ffffff;
+  color: black;
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+  margin: 0em 20em;
+}
+
+div.boxx {
+  font-size: 1.2rem;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: #2ba24c;
+  padding: 2rem 9%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+}
+
+.home {
+  background: url(background-main-1.jpg;
+  background-size: cover;
+}
+
